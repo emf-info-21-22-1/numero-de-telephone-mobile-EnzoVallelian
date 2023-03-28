@@ -8,8 +8,9 @@ public class Worker {
 
     /**
      *
-     * Cette classe retourne TRUE uniquement si le prefix vaut "+4177" sinon
-     * elle retourne false
+     * Cette classe test si les parametres correspondent. Le prefix vaut "+4177" et le numero vaut "744 92 31"  
+     * sinon elle retourne false
+     * 
      * 
      * @author Enzo Vallélian
      * @version 1.0
